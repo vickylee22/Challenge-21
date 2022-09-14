@@ -42,7 +42,7 @@ contract KaseiCoinCrowdsaleDeployer {
         string memory name,
         string memory symbol,
         address payable wallet,
-        uint initialSupply,
+        uint initial_supply,
         uint goal
     ) public {
         // Create a new instance of the KaseiCoin contract.
