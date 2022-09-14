@@ -27,11 +27,13 @@ Note that the starter files that are provided for this Challenge contain a pragm
 ## Evaluation Evidence
 
   1. KaseiCoin Token Contract: 
+  
   ![KaseiCoin](https://user-images.githubusercontent.com/103230949/190037604-62746ce8-acb9-4c52-938a-58d7cd317233.png)
   
   ![KaseiCoin_Compile_0 5 5](https://user-images.githubusercontent.com/103230949/190037456-bb41b098-5d64-44d7-b1e7-d8c9d23cd761.png)
 
   2. KaseiCoin Crowdsale Contract:
+  
   ![KaseiCoinCrowdsale](https://user-images.githubusercontent.com/103230949/190037582-9f2bc0db-f9a9-4a3a-a88b-53e8cf898350.png)
   
   ![KaseiCoinCrowdsale_Compile_0 5 5](https://user-images.githubusercontent.com/103230949/190037494-1e25d6ce-8fe3-481d-920e-b669d191bd66.png)
