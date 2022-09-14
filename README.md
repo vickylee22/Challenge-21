@@ -27,14 +27,14 @@ Note that the starter files that are provided for this Challenge contain a pragm
 ## Evaluation Evidence
 
   1. KaseiCoin Token Contract: 
+  ![KaseiCoin](https://user-images.githubusercontent.com/103230949/190037604-62746ce8-acb9-4c52-938a-58d7cd317233.png)
+  
   ![KaseiCoin_Compile_0 5 5](https://user-images.githubusercontent.com/103230949/190037456-bb41b098-5d64-44d7-b1e7-d8c9d23cd761.png)
 
-  ![KaseiCoin](https://user-images.githubusercontent.com/103230949/190037604-62746ce8-acb9-4c52-938a-58d7cd317233.png)
-
   2. KaseiCoin Crowdsale Contract:
-  ![KaseiCoinCrowdsale_Compile_0 5 5](https://user-images.githubusercontent.com/103230949/190037494-1e25d6ce-8fe3-481d-920e-b669d191bd66.png)
-
   ![KaseiCoinCrowdsale](https://user-images.githubusercontent.com/103230949/190037582-9f2bc0db-f9a9-4a3a-a88b-53e8cf898350.png)
+  
+  ![KaseiCoinCrowdsale_Compile_0 5 5](https://user-images.githubusercontent.com/103230949/190037494-1e25d6ce-8fe3-481d-920e-b669d191bd66.png)
 
   3. KaseiCoin Deployer Contract:
   
@@ -43,9 +43,7 @@ Note that the starter files that are provided for this Challenge contain a pragm
 
   4. Deployment of the Crowdsale Contract:
 
-
-
-![KaseiCoinCrowdsale_Deploy_Transact_Metamask_Succeed_Account3](https://user-images.githubusercontent.com/103230949/190037864-d52c8f1d-4e43-4a74-adad-2fe427996ae2.png)
 ![KaseiCoinCrowdsale_Deploy_Transact_Metamask](https://user-images.githubusercontent.com/103230949/190037866-c4163aea-f40d-41a7-9110-9657f659c4ce.png)
+
 ![KaseiCoinCrowdsale_Deploy_Transact_Metamask_Account4](https://user-images.githubusercontent.com/103230949/190037868-d685684f-1de0-460e-93fa-a38625625e10.png)
 
